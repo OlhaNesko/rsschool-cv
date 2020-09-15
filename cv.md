@@ -2,7 +2,6 @@
 _______________
 __First name__: Olga  
 __Last name__: Neskorodeieva
-_______________
 ### Contact info:
 email: olhanesko@yahoo.com  
 [Linkedin](https://www.linkedin.com/in/olga-neskorodeieva-ab10981a8/)  
