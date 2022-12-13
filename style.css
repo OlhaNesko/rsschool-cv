@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  margin: auto;
+  background: #f7f8e3;
+  font-size: 18px;
+}
+.header {
+  text-decoration: underline;
+}
+a {
+  color: #1e16bd;
+}
+strong {
+  text-decoration: underline;
+}
